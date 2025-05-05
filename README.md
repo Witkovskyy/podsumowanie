@@ -1,0 +1,2 @@
+# podsumowanie
+bash for uni
